@@ -1,6 +1,6 @@
 # Decentralized Escrow Application
 
-This is an Escrow Dapp built with [Hardhat](https://hardhat.org/  however, web app does not use Hardhat). In here you can create and deploy instances of an Escrow contract, giving arbiter and beneficiary addresses, the owner will be the one currently connected to the wallet. Can be connected to any network, testnet or mainnet, compatible with the EVM, I used Sepolia. Some test coins are needed, which can be obtained from a faucet (e.g. sepoliafaucet.com).
+This is an Escrow Dapp built with [Hardhat](https://hardhat.org)/ *(however, web app does not use Hardhat)*. In here you can create and deploy instances of an Escrow contract, giving arbiter and beneficiary addresses, the owner will be the one currently connected to the wallet. Can be connected to any network, testnet or mainnet, compatible with the EVM, I used Sepolia. Some test coins are needed, which can be obtained from a faucet (e.g. sepoliafaucet.com). 
 
 ## Project Layout
 
